@@ -10,6 +10,6 @@ function happyHolidayTo(Independence Day, Rob) {
   return `"Happy"${Independence Day} ${Rob}!`
 }
 var mothersday = "Mother's Day"
-function holidayCountdown(days, mothersday) {
-  return `It's ${days} days until ${mothersday}`
+function holidayCountdown(20, mothersday) {
+  return `It's ${20} days until ${mothersday}`
 }  
