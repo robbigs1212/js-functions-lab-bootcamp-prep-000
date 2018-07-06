@@ -10,8 +10,9 @@ var holiday = "Independence Day"
 function happyHolidayTo(holiday,name) {
   return `Happy ${holiday}, ${name}!`
 }
-var holiday = "Mother\'s Day"
-var days = 20
+
+ holiday = "Mother\'s Day"
+
 function holidayCountdown(days, holiday) {
   return `It's ${days} days until ${holiday}!`
 }  
